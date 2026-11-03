@@ -38,3 +38,5 @@ npm run lint
 npm run build
 npx tsx --test src/utils/store.test.ts
 ```
+
+VanStore by Van313 | Official.
